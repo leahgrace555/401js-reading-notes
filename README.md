@@ -1,2 +1,7 @@
-# 401js-reading-notes
-reading notes for 401 JavaScript
+# Reading Notes:
+*Notes for 401 JavaScript*
+
+##Code 102 - Intro to Software Development
+##Code 201 - Foundations of Software Development
+##Code 301 - Intermediate Software Development
+##Code 401 - Advanced Software Development
